@@ -5,7 +5,7 @@ function getDOB() {
 
   // Validate if both dates are provided
   if (!dobInput || !currentDateInput) {
-      alert('Please enter both Date of Birth and Current Date.');
+      alert('Please enter  Date of Birth and Current Date.');
       return;
   }
 
